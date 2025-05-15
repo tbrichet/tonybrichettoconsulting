@@ -67,16 +67,6 @@ body {
     z-index: 1;
 }
 
-.logo-overlay {
-    position: absolute;
-    top: 0; left: 0; right: 0; bottom: 0;
-    background: var(--tertiary-color);
-    opacity: 0.35;
-    pointer-events: none;
-    border-radius: 4px;
-    z-index: 2;
-}
-
 .hero {
     width: 100vw;
     min-height: 0;
